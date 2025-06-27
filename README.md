@@ -1,45 +1,50 @@
-Bikecraft
+# 🚴 Bikecraft
 
-Descrição
+**Bikecraft** é um projeto fictício desenvolvido para fins de aprendizado e portfólio. O objetivo é simular uma loja online de **bicicletas personalizadas**, oferecendo uma **experiência visual envolvente**, com navegação fluida e design responsivo.
 
-Bikecraft é um projeto de site para apresentação de bicicletas customizadas, com um design responsivo e interativo. O objetivo é oferecer uma experiência visual atraente para os visitantes, destacando informações sobre diferentes modelos de bicicletas.
+> Este projeto foi desenvolvido como parte do curso da [Origamid](https://www.origamid.com), com foco em boas práticas de HTML, CSS e JavaScript.
 
-Acesse o projeto online:
-🔗 Bikecraft - Deploy no Vercel: https://bikecraft-github-io.vercel.app/
+---
 
-Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## 🔗 Acesse o Projeto Online
 
-Funcionalidades
+➡️ [https://bikecraft-github-io.vercel.app](https://bikecraft-github-io.vercel.app)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3** (com animações e transições)
+- **JavaScript (Vanilla)**
 - Design responsivo
-- Animações CSS
-- Galeria de imagens
-- Seções informativas sobre os produtos
+- Estrutura semântica e acessibilidade básica
 
-Como Executar Localmente
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/leomatth/bikecraft.github.io.git
-   ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd bikecraft.github.io
-   ```
-3. Abra o arquivo `index.html` em seu navegador.
-Estrutura do Projeto
+---
 
-📂 bikecraft.github.io
-├── 📁 assets
-│   ├── 📁 css
-│   ├── 📁 js
-│   ├── 📁 img
-├── index.html
-├── README.md
+## ✨ Funcionalidades
 
-##Autor
-👤 **Leonardo Mattioni**
-- GitHub: [leomatth](https://github.com/leomatth)
+- Layout 100% responsivo
+- Animações suaves em CSS
+- Galeria de imagens para destaque dos modelos
+- Seções informativas sobre produtos e serviços
+- Navegação fluida com foco na experiência do usuário
 
-Caso tenha alguma sugestão ou feedback, sinta-se à vontade para contribuir! 😊
+---
+
+## 🤝 Contribuições
+Fique à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
+Todo feedback é bem-vindo! 🚀
+
+
+## 💻 Como Executar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/leomatth/bikecraft.github.io.git
+
+# Acesse a pasta do projeto
+cd bikecraft.github.io
+
+# Abra o arquivo index.html em seu navegador
+
