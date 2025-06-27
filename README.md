@@ -5,7 +5,7 @@ Descrição
 Bikecraft é um projeto de site para apresentação de bicicletas customizadas, com um design responsivo e interativo. O objetivo é oferecer uma experiência visual atraente para os visitantes, destacando informações sobre diferentes modelos de bicicletas.
 
 Acesse o projeto online:
-🔗 Bikecraft - Deploy no Vercel: https://bikecraft-delta.vercel.app/
+🔗 Bikecraft - Deploy no Vercel: https://bikecraft-github-io.vercel.app/
 
 Tecnologias Utilizadas
 - HTML5
